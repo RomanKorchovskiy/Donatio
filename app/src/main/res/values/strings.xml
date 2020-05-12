@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cantor</string>
+    <string name="action_settings">Settings</string>
+    <string name="donateTitle">Hello</string>
+    <string name="donateSubTitle">Give me some money pls...</string>
+    <string name="donateButton">Give</string>
+    <string name="RadioButton">Bank</string>
+    <string name="RadioButton1">Cash</string>
+    <string name="textMoney">Money</string>
+    <string name="total">Total</string>
+</resources>
